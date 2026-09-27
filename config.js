@@ -2,11 +2,11 @@
 window.LIVE_CFG = {
   NAME: "GO LIVE",
   TICKER: "LIVE",
-  CA: "",                 // $LIVE mint (pump.fun CA)
+  CA: "CZnGxDU7MhFdmgYVyzHH2mwhQDbvx1W8K5fakdnbpump",       // $LIVE mint (pump.fun CA)
   CHAIN: "solana",
   PAD: "pump.fun",
   PAIR: "",
-  X: "",                  // https://x.com/<handle>
+X: "https://x.com/usegolive",         // https://x.com/<handle>
   BUY: "",                // blank = https://pump.fun/coin/<CA>
   CHART: "",              // blank = https://gmgn.ai/sol/token/<CA>
 
